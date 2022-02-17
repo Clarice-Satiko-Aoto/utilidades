@@ -1,0 +1,15 @@
+##Use Counter to find the most common occurences of a value in a list
+
+import collections
+counter = collections.Counter([1,1,2,2,3,3,4,4,5,5])
+counter
+#print in dictionary
+
+
+counter.most_common()
+
+#A counter is a sub-class of the dictionary. 
+#It is used to keep the count of the elements in an iterable in the form of an unordered dictionary 
+#where the key represents the element in the iterable and value represents the count of that element in the iterable.
+
+#https://www.geeksforgeeks.org/python-collections-module/
