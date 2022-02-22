@@ -9,7 +9,7 @@ Type some option:
 4 - division
 ''')
 
-number1=int(input('enter first number: '))
+number1=int(input('enter the first number: '))
 number2=int(input('now, the second one: '))
 
 if option =='1':
