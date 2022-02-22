@@ -1,0 +1,28 @@
+print('########## Python Calculator ##########')
+print(" ")
+
+option = input('''
+Type some option:
+1 - addition
+2 - subtraction
+3 - multiplication
+4 - division
+''')
+
+number1=int(input('enter first number: '))
+number2=int(input('now, the second one: '))
+
+if option =='1':
+    print(f'The add between {number1} and {number2} is {number1 + number2}')
+    #print(number1 + number2)
+elif option == '2':
+    print(f'The subtraction between {number1} and {number2} is {number1 - number2}')
+    #print(number1 - number2)
+elif option == '3':
+    print(f'The multiplication between {number1} and {number2} is {number1 * number2}')
+    #print(number1 * number2)
+elif option == '4':
+    print(f'The division between {number1} and {number2} is {number1 / number2}')
+    #print(number1 / number2)
+else:
+    print('Invalid option. Enter a value between 1 to 4')
