@@ -1,5 +1,5 @@
 # utilidades
 quem sabe algum dia poderá ser útil?
 
-![QR_Clarice_In](src="https://user-images.githubusercontent.com/83498839/157456575-58f3ce78-8708-4d31-a804-e3657eb87008.png", height="50" width="50")
- <img align="center" alt="Clarice-html" height="30" width="40" src="hhttps://user-images.githubusercontent.com/83498839/157456575-58f3ce78-8708-4d31-a804-e3657eb87008.png" />
+png" />
+![QR_Clarice_In2](https://user-images.githubusercontent.com/83498839/157457402-611295ba-e90a-4ada-98b0-9cde628682da.png)
